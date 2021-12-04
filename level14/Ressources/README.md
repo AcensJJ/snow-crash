@@ -19,7 +19,7 @@ Doing the same manipulation of the last level
 
 ```
 $ break *0x804898e
-> Breqkpoint 1, 0x804898e in main ()
+> Breakpoint 1, 0x804898e in main ()
 $ run
 $ jump *0x8048de5
 > Continuing at 0x8048de5
