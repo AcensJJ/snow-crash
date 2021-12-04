@@ -34,7 +34,7 @@ Running the binary and we see is going throw getuid@plt after the je invalid, it
 
 ```
 $ break *0x0804859a
-> Breqkpoint 1, 0x0804859a in main ()
+> Breakpoint 1, 0x0804859a in main ()
 $ run
 $ jump *0x080485cb
 > Continuing at 0x080485cb
