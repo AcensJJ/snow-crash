@@ -32,3 +32,12 @@ This project is an introduction to computer security. Snow Crash will make you d
     - level07.
     - level08.
     - level09.
+
+# Bonus part
+
+- For the bonus part, you can complete the following list of levels:
+    - level10.
+    - level11.
+    - level12.
+    - level13.
+    - level14.
