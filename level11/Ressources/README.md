@@ -81,7 +81,7 @@ $ nc localhost 5151
 Verifying the file
 
 ```
-$ cat /tmp/file
+$ cat /tmp/flag
 > Check flag.Here is your token : fa6v5ateaw21peobuub8ipe6s
 ```
 
