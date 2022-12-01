@@ -21,7 +21,7 @@ $ cat /usr/sbin/john
 ```
 
 After some attempt, we see the password didn't work.
-So we decide to go on the <a href="dcode.fr">dcode.fr</a> website, talked in the <a href="https://elearning.intra.42.fr/notions/snow-crash/subnotions/snow-crash/videos/snow-crash">school video</a>.
+So we decide to go on the <a href="https://dcode.fr">dcode.fr</a> website, talked in the <a href="https://elearning.intra.42.fr/notions/snow-crash/subnotions/snow-crash/videos/snow-crash">school video</a>.
 
 And after some research on the website, we find the decrypted part and try to unlock it.
 The most rational word was:
